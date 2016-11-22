@@ -1,6 +1,6 @@
 # Insert AddAll.com Search to Amazon Pages
 
-This is a simple browser script for . I had a resolution this year to stop giving Amazon money through book purchases, and this helps to quickly find used books.
+This is a simple browser script for Chrome, but their security stuff makes it a pain to keep activated unless I actually submit it to the Chrome store. I had a resolution this year to stop spending so much money on Amazon through book purchases, and this helps to quickly find used books from a variety of sources.
 
 ## Installation
 
